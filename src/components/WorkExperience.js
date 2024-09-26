@@ -1,3 +1,10 @@
+/*
+Daniel Santos Martinez
+CS450-101
+UCID: ds73
+Assignment 2
+*/
+
 import React, {Component} from "react";
 import "../App.css";
 
