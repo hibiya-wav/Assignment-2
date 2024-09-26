@@ -1,0 +1,137 @@
+/*
+Daniel Santos Martinez
+CS450-101
+UCID: ds73
+Assignment 2
+*/
+
+html {
+  padding: 10px 390px 10px 390px;
+}
+
+#header {
+  width: 100%;
+  background-color: #f2f2f2;
+  display: flex;
+  justify-content: space-between;
+  padding-top: 20px;
+  padding-bottom: 50px;
+  box-sizing: border-box;
+  margin-bottom: 0;
+}
+
+#all_body {
+  padding: 0px 20px 0px 20px;
+}
+
+#everything {
+  border: 2px solid #000000;
+}
+
+#header p {
+  font-size: 13px;
+}
+
+#header-borderline {
+  width: 100%;
+  color: #ffc000;
+  border: none;
+  background-color: #ffc000;
+  height: 5px;
+  margin-top: 0;
+}
+
+#left-header {
+  margin: 10px 0 0px 30px;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+#left-header p {
+  margin-top: 5px;
+  font-size: 16px;
+}
+
+#header-name {
+  margin-bottom: 0px;
+  font-size: 19px;
+}
+
+#right-header {
+  margin: 7px 50px 0 0;
+}
+
+#right-header p {
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 12px;
+}
+
+.resume-block {
+  display: flex;
+  justify-content: flex-start;
+}
+
+#list-resume-block {
+  display: flex;
+  justify-content: flex-start;
+}
+
+h3 {
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+.resume-list-spacing {
+  display: flex;
+  gap: 10px;
+}
+
+.ul-div-group {
+  margin-left: 10px;
+}
+
+ul {
+  margin-left: 40px;
+}
+
+.resume-block-topic {
+  font-family: Arial, Helvetica, sans-serif;
+  font-weight: bold;
+  font-style: italic;
+  margin-right: 30px;
+}
+
+.resume-block-text,
+li,
+span {
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+#resume-block-text-personal-profile {
+  font-family: Arial, Helvetica, sans-serif;
+  margin-left: 57px;
+}
+
+.resume-block-text-title {
+  font-family: Arial, Helvetica, sans-serif;
+  font-weight: bold;
+}
+
+.ul-multi-resume-block {
+  list-style-type: none;
+  padding: 0px;
+}
+
+.edit-list {
+  margin-top: 0px;
+}
+
+#explicit-group-div {
+  margin-left: 8px;
+}
+
+#spacing-issue-block {
+  margin-top: 25px;
+}
+
+.hidden {
+  visibility: hidden;
+}
