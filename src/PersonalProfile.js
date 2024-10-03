@@ -6,7 +6,7 @@ Assignment 2
 */
 
 import React, {Component} from 'react';
-import '../App.css';
+import './App.css';
 
 class PersonalProfile extends Component {
     render() {

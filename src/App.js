@@ -8,11 +8,11 @@ Assignment 2
 
 import React, {Component} from 'react';
 import './App.css'
-import Header from './components/Header';
-import PersonalProfile from './components/PersonalProfile';
-import WorkExperience from './components/WorkExperience'
-import Skills from './components/Skills';
-import Education from './components/Education';
+import Header from './Header';
+import PersonalProfile from './PersonalProfile';
+import WorkExperience from './WorkExperience'
+import Skills from './Skills';
+import Education from './Education';
 
 
 class App extends Component {
